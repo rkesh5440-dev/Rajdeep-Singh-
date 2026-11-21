@@ -1,0 +1,17 @@
+import type { CapacitorConfig } from '@capacitor/cli';
+
+const config: CapacitorConfig = {
+  appId: 'com.ironbound.realms',
+  appName: 'Ironbound Realms',
+  webDir: 'dist',
+  android: {
+    allowMixedContent: false,
+    backgroundColor: '#0e1117',
+    webContentsDebuggingEnabled: false,
+  },
+  server: {
+    androidScheme: 'https',
+  },
+};
+
+export default config;

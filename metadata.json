@@ -1,0 +1,6 @@
+{
+  "name": "Ironbound Realms",
+  "description": "Landscape-only action adventure, mission bounties, arena fighting, custom hero gear & skills, and offline local multiplayer PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
